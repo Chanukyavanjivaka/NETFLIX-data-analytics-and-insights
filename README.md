@@ -99,12 +99,4 @@ Invest more in popular genres like drama, comedy, and thrillers.
 
 
 
-📂 Files to Upload to GitHub
-
-Notebook file → Netflix_CaseStudy.ipynb
-
-Dataset → netflix_titles.csv (if licensing allows, else provide Kaggle link)
-
-Images folder → Save your graphs here (/images/plot1.png, /images/plot2.png, …)
-
 
