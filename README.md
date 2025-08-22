@@ -1,4 +1,8 @@
 ##📺 Netflix Business Case Study
+
+https://colab.research.google.com/drive/1rEe-KfFiE0FkeGWDHaDxotuCL1wjRBoN#scrollTo=bProBshYw-cf
+
+
 📌 Project Overview
 
 This project is a data analysis and visualization case study on Netflix content.
